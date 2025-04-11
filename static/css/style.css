@@ -12,12 +12,3 @@
 .icon-block .material-icons {
   font-size: inherit;
 }
-
-.container {
-  background-image: url("../images/picture.jpg"); /* Add your image in static/images */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 100vh;
-  font-family: "Roboto", sans-serif;
-}
